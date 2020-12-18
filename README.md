@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
+
+### Some Links:
+- My Bot Links:
+![Dynamo Website](https://www.dynamobot.xyz)
+![Dynamo Support](https://discord.com/invite/QhdZ5a3)
+![Dynamo Invite](https://discord.com/oauth2/authorize?client_id=729640177311416421&scope=bot&permissions=8)
+- Gamers Hangout
+
+
 ### 📈 My GitHub Stats:
 ![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=DragonDev15&show_icons=true&theme=radical)
