@@ -10,11 +10,11 @@
 - ⚡ Fun fact: 
   
 ### Some Links:
-- My Bot Links:
+###### My Bot Links:
 - [Dynamo Website](https://www.dynamobot.xyz)
 - [Dynamo Support](https://discord.com/invite/QhdZ5a3)
 - [Dynamo Invite](https://discord.com/oauth2/authorize?client_id=729640177311416421&scope=bot&permissions=8)
-- Gamers Hangout
+###### Gamers Hangout
 
 
 ### 📈 My GitHub Stats:
